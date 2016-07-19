@@ -10,4 +10,11 @@ status nuevo
 
 edit claudio
 
+<<<<<<< HEAD
 cambio todo
+=======
+rama master
+rama pruebas
+
+ultimo cambio en remote
+>>>>>>> origin/master
