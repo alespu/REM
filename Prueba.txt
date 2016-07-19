@@ -8,5 +8,7 @@ asdasdasjkdoasjdasjdas
 
 status nuevo
 
+edit claudio
+
 rama master
 rama pruebas
