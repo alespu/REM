@@ -4,7 +4,11 @@ editado por luis
 nuevo cambio 
 endis sobre linea
 
+<<<<<<< HEAD
 asdasdasjkdoasjdasjdas
 
 
 status
+=======
+asdasdasjkdoasjdasjdas
+>>>>>>> origin/master
