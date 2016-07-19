@@ -8,9 +8,3 @@ asdasdasjkdoasjdasjdas
 
 status nuevo
 
-<<<<<<< HEAD
-nuevo cambios en rama MASTER
-nuevos cambios luis
-=======
-edit claudio
->>>>>>> 8cdf77fe724eea13272ac8172bd4acb43a286666
