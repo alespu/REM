@@ -8,16 +8,8 @@ asdasdasjkdoasjdasjdas
 
 status nuevo
 
-edit claudio
+edit claudio /// cambio sobre linea
 
-<<<<<<< HEAD
-cambio todo
-=======
-rama master
-rama pruebas
-
-ultimo cambio en remote
->>>>>>> origin/master
-
+ultimo cambio 
 
 agregado por endis prueba de kraken
