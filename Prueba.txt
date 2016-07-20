@@ -4,7 +4,8 @@ editado por luis
 nuevo cambio 
 endis sobre linea
 
-asdasdasjkdoasjdasjdas
+
+asdasdasjkdoasjdasjdas // linea modificada y rama luis_rama
 
 status nuevo
 
@@ -14,3 +15,5 @@ ultimo cambio
 
 agregado por endis prueba de kraken
 agregado por luis prueba de consola
+
+linea modificada y rama luis_rama
