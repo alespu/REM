@@ -11,3 +11,6 @@ status nuevo
 edit claudio /// cambio sobre linea
 
 ultimo cambio 
+
+agregado por endis prueba de kraken
+agregado por luis prueba de consola
