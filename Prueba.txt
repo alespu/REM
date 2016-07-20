@@ -17,3 +17,4 @@ agregado por endis prueba de kraken
 agregado por luis prueba de consola
 
 linea modificada y rama luis_rama
+modificado en master local -luis-
